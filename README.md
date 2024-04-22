@@ -1,2 +1,3 @@
 # projekt_siete
-nas skolsky projekt na network science
+
+Welcome to the repo of our school project for network science.
